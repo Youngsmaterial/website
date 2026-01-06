@@ -1,9 +1,9 @@
 ---
 title: PC/ABS 聚碳酸酯和丙烯腈-丁二烯-苯乙烯共聚合物｜永旭材料有限公司
-description: PC/ABS (聚碳酸酯和丙烯腈-丁二烯-苯乙烯共聚合物)
+description: PC/ABS 聚碳酸酯和丙烯腈-丁二烯-苯乙烯共聚合物
 
 
-#  PC/ABS (聚碳酸酯和丙烯腈-丁二烯-苯乙烯共聚合物)
+#  PC/ABS 聚碳酸酯和丙烯腈-丁二烯-苯乙烯共聚合物
 品牌: Wanhua Chemical 萬華化學 WanBlend®
 
 ## 產品特性 ：
