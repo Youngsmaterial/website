@@ -1,9 +1,9 @@
 ---
-title: MS (Methyl methacrylate styrene) 甲基丙烯酸甲酯-苯乙烯 共聚合物 ｜永旭材料有限公司
-description: MS (Methyl methacrylate styrene) 甲基丙烯酸甲酯-苯乙烯 共聚合物
+title: MS (Methyl Methacrylate Styrene) 甲基丙烯酸甲酯-苯乙烯 共聚合物 ｜永旭材料有限公司
+description: MS (Methyl Methacrylate Styrene) 甲基丙烯酸甲酯-苯乙烯 共聚合物
 ---
 
-# MS (Methyl methacrylate styrene) 
+# MS (Methyl Methacrylate Styrene) 
 # 甲基丙烯酸甲酯-苯乙烯 共聚合物
 
 
