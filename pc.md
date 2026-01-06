@@ -1,9 +1,9 @@
 ---
-title: PC 聚碳酸酯｜永旭材料有限公司
-description:  PC（聚碳酸酯 Polycarbonate ）
+title: PC (Polycarbonate) 聚碳酸酯 ｜永旭材料有限公司
+description:  PC (Polycarbonate) 聚碳酸酯 
 ---
 
-# PC（聚碳酸酯）
+# PC (Polycarbonate) 聚碳酸酯 
 品牌: Wanhua Chemical 萬華化學 Clarnate®
 
 生產方式: 光氣法
