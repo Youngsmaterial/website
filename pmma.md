@@ -1,5 +1,5 @@
 ---
-title: PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲酯、壓克力｜永旭材料有限公司
+title: PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲酯、壓克力｜永旭材料貿易有限公司
 description:  PMMA (Polymethyl Methacrylate 、 Acrylic) 聚甲基丙烯酸甲酯、壓克力
 ---
 
