@@ -1,5 +1,5 @@
 ---
-title: POE (Polyolefin Elastomer) 聚烯烴彈性體 ｜永旭材料有限公司
+title: POE (Polyolefin Elastomer) 聚烯烴彈性體 ｜永旭材料貿易有限公司
 description: POE (Polyolefin Elastomer) 聚烯烴彈性體
 ---
 
