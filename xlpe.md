@@ -1,5 +1,5 @@
 ---
-title: XLPE 交聯聚乙烯 ｜永旭材料有限公司
+title: XLPE 交聯聚乙烯 ｜永旭材料貿易有限公司
 description: XLPE 交聯聚乙烯
 ---
 
