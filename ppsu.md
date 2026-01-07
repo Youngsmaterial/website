@@ -1,5 +1,5 @@
 ---
-title: PPSU (Polyphenylsulfone) 聚苯碸 ｜永旭材料有限公司
+title: PPSU (Polyphenylsulfone) 聚苯碸 ｜永旭材料貿易有限公司
 description: PPSU (Polyphenylsulfone) 聚苯碸
 ---
 
