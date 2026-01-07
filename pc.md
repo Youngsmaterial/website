@@ -1,5 +1,5 @@
 ---
-title: PC (Polycarbonate) 聚碳酸酯 ｜永旭材料有限公司
+title: PC (Polycarbonate) 聚碳酸酯 ｜永旭材料貿易有限公司
 description:  PC (Polycarbonate) 聚碳酸酯 
 ---
 
