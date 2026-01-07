@@ -1,6 +1,6 @@
 ---
 title: 永旭材料貿易有限公司 
-description:  – 專業的化學原料代理商提供 PC、PMMA、PC/ABS、PA12、PPSU、TPU 等工程塑膠材料
+description: 專業的化學原料代理商提供 PC、PMMA、PC/ABS、PA12、PPSU、TPU 等工程塑膠材料
 ---
 
 # 永旭材料貿易有限公司成立於2019年，專營萬華化學集團股份有限公司的塑膠原料。
