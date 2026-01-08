@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="QJDnL7dGoZky77bYhCPzByI4d13W8HrakQL2bUWxmMQ" />
+
 ---
 title: 永旭材料貿易有限公司 
 description: 專業的化學原料代理商提供 PC、PMMA、PC/ABS、PA12、PPSU、TPU 等工程塑膠材料
