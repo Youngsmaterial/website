@@ -13,7 +13,7 @@ description: 為專業化學原物料代理商，提供 PC、PMMA、PC/ABS、PA1
 ### 工程塑料（Engineering Plastics）
 - [PC 聚碳酸酯](pc.md)
 - [PMMA 壓克力](pmma.md)
-- [PC/ABS 合金](pcabs.md)
+- [PC/ABS 合金](pc-abs.md)
 - [PA12 尼龍](pa12.md)
 - [PPSU 聚苯碸](ppsu.md)
 - [MS 樹脂](ms.md)
