@@ -22,8 +22,6 @@ description: POE (Polyolefin Elastomer) 聚烯烴彈性體
 - 發泡鞋材
 - 包材
 
-## POE 產品型錄(PDF)
-[POE 產品型錄(PDF)下載](assets/POE-TDS.pdf)
 
 
 
