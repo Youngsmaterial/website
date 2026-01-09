@@ -29,4 +29,10 @@ description: MS (Methyl Methacrylate Styrene) 甲基丙烯酸甲酯-苯乙烯 �
 - 可作為PMMA替代品
 - 板材 
 
+## 產品描述
 
+| 類別 | 規格 | 備註 |
+|----|--------|--------|
+| 一般級 |MS6010|MFR=9 |
+| 一般級 |MS4508| MFR=9 |
+| 一般級 |MS3010|MFR=9 |
