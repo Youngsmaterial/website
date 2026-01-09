@@ -68,8 +68,8 @@ description:  PC (Polycarbonate) 聚碳酸酯
 | 一般級 |A1280| MFR=27、無脫模劑 |
 | 一般級 |A1285| MFR=27 |
 | 一般級 |A1357| MFR=34 |
-| 車燈級 |HL6157| MFR=17、UV |
-| 車燈級 |HL6227| MFR=20、UV |
+| 車燈級 |HL6157| MFR=17、UV、AMECA |
+| 車燈級 |HL6227| MFR=20、UV、AMECA |
 | 車燈級 |A1225BK| MFR=20 |
 | 車燈級 |A135BK| MFR=33.5 |
 | 光學級 |OL1058| MFR=6、UV385 |
