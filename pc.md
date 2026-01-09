@@ -1,6 +1,6 @@
 ---
-title: PC (Polycarbonate) 聚碳酸酯 ｜永旭材料貿易有限公司
-description:  PC (Polycarbonate) 聚碳酸酯 
+title: PC 聚碳酸酯材料｜PC 規格與應用｜Youngs
+description: 提供 PC 聚碳酸酯材料，具備高耐衝擊、耐熱與良好透明性，適用於電子零組件、工業結構件與精密應用，可提供完整 TDS。
 ---
 
 # PC (Polycarbonate) 
@@ -91,3 +91,9 @@ description:  PC (Polycarbonate) 聚碳酸酯
 | 醫療級 |MR106| MFR=10 |
 | 醫療級 |MR156| MFR=16 |
 | 醫療級 |MR206| MFR=20 |
+
+
+---
+
+📩 **需要完整規格、應用建議或報價？**  
+👉 [請聯絡我們](contact.md)
