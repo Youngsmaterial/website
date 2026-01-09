@@ -29,5 +29,4 @@ description: MS (Methyl Methacrylate Styrene) 甲基丙烯酸甲酯-苯乙烯 �
 - 可作為PMMA替代品
 - 板材 
 
-## MS 產品型錄(PDF)
-[MS 產品型錄(PDF)下載](assets/MS-TDS.pdf)
+
