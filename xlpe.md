@@ -17,3 +17,19 @@ description: XLPE 交聯聚乙烯
 
 ## 常見應用
 - 電線電纜
+
+## PC改性 產品描述
+
+
+| 類別 | 規格|  | 備註 |
+|----|-------|---|-------|
+| 披覆 |4201| Rated Voltage 12KV (Um = 17.5 kv) | 硅烷交聯 |
+| 披覆 |4201C| Rated Voltage 69KV (Um = 72.5 kv) | 過氧化物交聯 |
+| 披覆 |4201S| Rated Voltage 161KV (Um = 170 kv) | 過氧化物交聯 |
+| 披覆 |4201SC| Rated Voltage 230KV (Um = 245 kv) | 過氧化物交聯 |
+| 披覆 |4201EHV| Rated Voltag  > 230KV (Um = 550 kv) | 過氧化物交聯 |
+| 絕緣 |4205| Rated Voltage 69KV (Um = 72.5 kv) |  |
+| 絕緣 |4205S| Rated Voltage 161KV(Um = 170 kv) |  |
+| 絕緣 |4205SC| Rated Voltage 230KV(Um = 245 kv) |  |
+| 絕緣 |4205EHV| Rated Voltag > 230KV (Um = 550 kv) |  |
+
