@@ -1,6 +1,6 @@
 ---
-title: XLPE 交聯聚乙烯 ｜永旭材料貿易有限公司
-description: XLPE 交聯聚乙烯
+title: XLPE 交聯聚乙烯材料｜XLPE 規格與應用｜Youngs
+description: 提供 XLPE 交聯聚乙烯材料，具備良好耐熱性與電氣性能，常應用於線纜與工業相關用途。
 ---
 
 # XLPE
@@ -18,7 +18,7 @@ description: XLPE 交聯聚乙烯
 ## 常見應用
 - 電線電纜
 
-## PC改性 產品描述
+## 產品描述
 
 
 | 類別 | 規格|  | 備註 |
@@ -33,3 +33,9 @@ description: XLPE 交聯聚乙烯
 | 絕緣 |4205SC| Rated Voltage 230KV(Um = 245 kv) |  |
 | 絕緣 |4205EHV| Rated Voltag > 230KV (Um = 550 kv) |  |
 
+
+
+---
+
+📩 **需要完整規格、應用建議或報價？**  
+👉 [請聯絡我們](contact.md)
