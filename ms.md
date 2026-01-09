@@ -1,6 +1,6 @@
 ---
-title: MS (Methyl Methacrylate Styrene) 甲基丙烯酸甲酯-苯乙烯 共聚合物 ｜永旭材料貿易有限公司
-description: MS (Methyl Methacrylate Styrene) 甲基丙烯酸甲酯-苯乙烯 共聚合物
+title: MS 改質材料｜MS 規格與應用｜Youngs
+description: 提供 MS 材料，兼具良好機械性能與加工彈性，適用於多元工業用途，並可依應用需求提供對應規格資料。
 ---
 
 # MS (Methyl Methacrylate Styrene) 
@@ -36,3 +36,10 @@ description: MS (Methyl Methacrylate Styrene) 甲基丙烯酸甲酯-苯乙烯 �
 | 一般級 |MS6010|MFR=9 |
 | 一般級 |MS4508| MFR=9 |
 | 一般級 |MS3010|MFR=9 |
+
+
+
+---
+
+📩 **需要完整規格、應用建議或報價？**  
+👉 [請聯絡我們](contact.md)
