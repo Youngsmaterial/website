@@ -1,5 +1,5 @@
 ---
-title: PC/ABS 合金材料｜PC/ABS 規格與應用｜Youngs
+title: PC/ABS 合金材料｜PC/ABS 規格與應用｜永旭材料貿易有限公司
 description: 提供 PC/ABS 合金材料，結合耐衝擊性與良好加工性，適用於電子外殼、工業零組件與結構件應用，可依需求提供技術規格。
 ---
 
