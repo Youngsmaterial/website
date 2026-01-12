@@ -1,5 +1,5 @@
 ---
-title: PPSU 高性能工程塑膠｜PPSU 規格與應用｜Youngs
+title: PPSU 高性能工程塑膠｜PPSU 規格與應用｜永旭材料貿易有限公司
 description: 提供 PPSU 高性能工程塑膠材料，具備耐高溫、耐水解與優異機械強度，常用於醫療與高階工業應用。
 ---
 
