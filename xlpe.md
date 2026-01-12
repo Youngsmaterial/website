@@ -1,5 +1,5 @@
 ---
-title: XLPE 交聯聚乙烯材料｜XLPE 規格與應用｜Youngs
+title: XLPE 交聯聚乙烯材料｜XLPE 規格與應用｜永旭材料貿易有限公司
 description: 提供 XLPE 交聯聚乙烯材料，具備良好耐熱性與電氣性能，常應用於線纜與工業相關用途。
 ---
 
