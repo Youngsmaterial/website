@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 
 ---
-title: Youngs 化學原物料代理商｜PC・PMMA・工程塑膠專業供應
+title: 永旭材料貿易有限公司｜化學原物料代理商｜PC・PMMA・工程塑膠專業供應
 description: Youngs 為專業化學原物料代理商，提供 PC、PMMA、PC/ABS、PA12、PPSU、MS、POE、XLPE、TPU 等工程塑膠材料，服務電子、工業、醫療與線材應用。
 ---
 
