@@ -1,8 +1,3 @@
----
-title: TPU 熱塑性聚氨酯材料｜TPU 規格與應用｜永旭材料貿易有限公司
-description: 提供 TPU 熱塑性聚氨酯材料，具備耐磨、彈性佳與耐油性，適用於工業零件、線材與彈性應用。
----
-
 # TPU (Thermoplastic Polyurethane) 熱可塑性聚氨酯樹脂
 # 熱可塑性聚氨酯樹脂
 
