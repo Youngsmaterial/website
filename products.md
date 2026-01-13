@@ -1,7 +1,11 @@
 # 產品介紹
 
 ## 代理品牌
-<img src="/images/logo-brand-wanhua.png" alt="Wanhua Chemical Group Co., Ltd." style="pointer-events:none;">
+
+![Wanhua Chemical Group Co., Ltd.](/images/logo-brand-wanhua.png)
+
+
+
 万华化学集团股份有限公司 
 Wanhua Chemical Group Co., Ltd.
 
