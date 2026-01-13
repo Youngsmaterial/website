@@ -2,9 +2,22 @@
 
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 
-<img src="/images/logo-brand-youngs.png"
-     alt=""
-     style="height:80px;pointer-events:none;">
+<section style="text-align:center; padding:3rem 1rem;">
+  <img src="images.keep/logo-brand-youngs.png"
+       alt="永旭材料貿易有限公司"
+       style="height:80px; margin-bottom:1.5rem; pointer-events:none;">
+
+  <h1>工程塑料與高性能材料專業供應</h1>
+
+  <p style="max-width:720px; margin:1rem auto; font-size:1.1rem;">
+    專注於 PA12、PC、PMMA、PA/ABS 等工程塑料材料，提供穩定供應、技術支援與應用解決方案。
+  </p>
+
+  <p>
+    <a href="pa12" role="button">產品列表</a>
+    <a href="brands" role="button" class="secondary">代理品牌</a>
+  </p>
+</section>
 
 
 
