@@ -12,13 +12,10 @@
 
   <!-- 廠商 2: Hinny -->
   <div style="text-align:center; flex:1 1 250px;">
-    <img src="/images/logo-brand-hinny.png" alt="Weifang Dongsheng Plastic Technology Co., Ltd." style="height:80px; margin-top:5px;">
+    <img src="/images/logo-brand-hinny.png" alt="Weifang Dongsheng Plastic Technology Co., Ltd." style="height:80px; margin-top:20px;">
     <h3>濰坊东盛塑胶科技有限公司</h3>
     <h4>Weifang Dongsheng Plastic Technology Co.,Ltd</h4>
     <p>濰坊东盛塑胶科技有限公司專注於塑膠材料研發與製造，主要從事高性能透明尼龍、生物基長碳鏈尼龍、特種尼龍、特種尼龍改性等一系列產品的研發、生產及銷售，產品廣泛應用於工業及民用領域。</p>
   </div>
 
 </div>
-
-
-
