@@ -86,6 +86,10 @@
 | 醫療級 |MR106| MFR=10 |
 | 醫療級 |MR156| MFR=16 |
 | 醫療級 |MR206| MFR=20 |
+| PCR PC |R1050| GRS |
+| PCR PC |R1100| GRS |
+| PCR PC |R1250| GRS |
+
 
 
 🔗 延伸材料參考：
