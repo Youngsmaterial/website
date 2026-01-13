@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 
 <img src="/images/logo-brand-youngs.png"
-     alt=""
+     alt="YOUNGS MATERIAL CO., LTD. Company Logo "
      style="height:80px;pointer-events:none;">
 
 
