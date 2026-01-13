@@ -1,21 +1,22 @@
-<nav style="display:flex; align-items:center; justify-content:space-between; padding:10px 20px;">
+<nav style="display:flex; align-items:center; justify-content:space-between; padding:10px 20px; background:#f8f8f8;">
 
-  <!-- Logo 左側 -->
+  <!-- 左邊 Logo -->
   <div style="flex-shrink:0;">
-    <a href="./">
+    <a href="./" style="display:block;">
       <img src="images.keep/logo-brand-youngs.png" alt="永旭材料貿易有限公司" style="height:40px; display:block;">
     </a>
   </div>
 
-  <!-- 選單右側 -->
+  <!-- 右邊選單 -->
   <div style="display:flex; gap:30px; align-items:center;">
-    <a href="brands.md" style="text-decoration:none; line-height:40px;">代理品牌</a>
-    <a href="pa12.md" style="text-decoration:none; line-height:40px;">產品列表</a>
-    <a href="faq.md" style="text-decoration:none; line-height:40px;">FAQ</a>
-    <a href="contact.md" style="text-decoration:none; line-height:40px;">聯絡我們</a>
+    <a href="brands.md" style="text-decoration:none; color:#000; display:flex; align-items:center; height:40px;">代理品牌</a>
+    <a href="pa12.md" style="text-decoration:none; color:#000; display:flex; align-items:center; height:40px;">產品列表</a>
+    <a href="faq.md" style="text-decoration:none; color:#000; display:flex; align-items:center; height:40px;">FAQ</a>
+    <a href="contact.md" style="text-decoration:none; color:#000; display:flex; align-items:center; height:40px;">聯絡我們</a>
   </div>
 
 </nav>
+
 
 
 
