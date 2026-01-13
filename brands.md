@@ -1,22 +1,23 @@
-<section style="text-align:center; padding:3rem 1rem;">
+<!-- Banner 開始 -->
+<div style="display:flex; align-items:center; justify-content:space-between; padding:12px 20px; border-bottom:1px solid #e5e5e5; flex-wrap:wrap; gap:12px; background:#f8f8f8;">
 
-  <!-- 公司 Logo + 名稱 -->
-  <div style="display:flex; align-items:center; justify-content:center; gap:12px; margin-bottom:1.5rem;">
-    <img src="images.keep/logo-brand-youngs.png"
-         alt="永旭材料貿易有限公司"
-         style="height:80px; pointer-events:none;">
-    <span style="font-weight:bold; font-size:1.4rem;">永旭材料貿易有限公司</span>
+  <!-- 左側：Logo + 公司名稱 -->
+  <div style="display:flex; align-items:center; gap:12px;">
+    <img src="images.keep/logo-brand-youngs.png" alt="永旭材料貿易有限公司" style="height:48px;">
+    <span style="font-weight:bold; font-size:1.2rem;">永旭材料貿易有限公司</span>
   </div>
 
-  <!-- 導覽按鈕 -->
-  <p style="display:flex; gap:1rem; justify-content:center; flex-wrap:wrap;">
-    <a href="brands.md" role="button">代理品牌</a>
-    <a href="products.md" role="button" class="secondary">產品列表</a>
-    <a href="faq.md" role="button" class="secondary">FAQ</a>
-    <a href="contact.md" role="button" class="contrast">聯絡我們</a>
-  </p>
+  <!-- 右側：導覽按鈕 -->
+  <nav style="display:flex; gap:20px; flex-wrap:wrap;">
+    <a href="brands.md" style="text-decoration:none; color:#000;">代理品牌</a>
+    <a href="products.md" style="text-decoration:none; color:#000;">產品列表</a>
+    <a href="faq.md" style="text-decoration:none; color:#000;">FAQ</a>
+    <a href="contact.md" style="text-decoration:none; color:#000;">聯絡我們</a>
+  </nav>
 
-</section>
+</div>
+<!-- Banner 結束 -->
+
 
 
 ## 代理品牌
