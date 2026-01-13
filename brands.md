@@ -1,6 +1,6 @@
-<nav class="container" style="display:flex; align-items:center; justify-content:space-between; padding:10px 20px;">
+<nav style="display:flex; align-items:center; justify-content:space-between; padding:10px 20px;">
 
-  <!-- 左邊 logo -->
+  <!-- logo 左側 -->
   <ul style="list-style:none; margin:0; padding:0;">
     <li>
       <a href="./">
@@ -11,8 +11,8 @@
     </li>
   </ul>
 
-  <!-- 右邊選單 -->
-  <ul style="list-style:none; margin:0; padding:0; display:flex; gap:20px;">
+  <!-- 選單右側 -->
+  <ul style="list-style:none; margin:0; padding:0; display:flex; gap:30px;">
     <li><a href="brands.md">代理品牌</a></li>
     <li><a href="pa12.md">產品列表</a></li>
     <li><a href="faq.md">FAQ</a></li>
@@ -20,6 +20,7 @@
   </ul>
 
 </nav>
+
 
 
 
