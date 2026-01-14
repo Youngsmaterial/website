@@ -37,7 +37,12 @@
 </div>
 
 
-![Banner](images/brands-images-01.jpg)
+<div style="text-align:center;">
+  <img src="images/brands-images-01.jpg"
+       alt="Banner"
+       style="width:75%; height:auto; max-width:100%;">
+</div>
+
 
 
 
