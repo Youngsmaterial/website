@@ -58,7 +58,7 @@
 
 | 類別 | 規格|  | 備註 |
 |----|-------|---|-------|
-| 披覆 |4201| Rated Voltage 12KV (Um = 17.5 kv) | 硅烷交聯 |
+| 披覆 |4201| Rated Voltage 12KV (Um = 17.5 kv) | 矽烷交聯 |
 | 披覆 |4201C| Rated Voltage 69KV (Um = 72.5 kv) | 過氧化物交聯 |
 | 披覆 |4201S| Rated Voltage 161KV (Um = 170 kv) | 過氧化物交聯 |
 | 披覆 |4201SC| Rated Voltage 230KV (Um = 245 kv) | 過氧化物交聯 |
