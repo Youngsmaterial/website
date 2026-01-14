@@ -16,7 +16,7 @@
     <a href="index" style="display:flex; align-items:center;">
       <img src="images/logo-brand-youngs.png"
            alt="永旭材料貿易有限公司"
-           style="height:60px; max-width:none; object-fit:contain;"> <!-- 放大約 +10-15% -->
+           style="height:80px; max-width:none; object-fit:contain;"> 
     </a>
 
     <!-- 右側 導覽列 -->
