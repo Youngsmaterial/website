@@ -1,30 +1,42 @@
-<div style="background:#f2f2f2; border-bottom:1px solid #ddd; margin-bottom:2rem;">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+
+<div style="background:#e9ecef; border-bottom:1px solid #dcdcdc;">
   <div style="
-    max-width:1200px;
-    margin:auto;
-    padding:0.75rem 1rem;
+    max-width:1280px;
+    margin:0 auto;
+    padding:1.25rem 1.5rem;
     display:flex;
     align-items:center;
     justify-content:space-between;
-    gap:1rem;
+    gap:2rem;
     flex-wrap:wrap;
   ">
 
-    <a href="index">
+    <!-- 左側 LOGO -->
+    <a href="index" style="display:flex; align-items:center;">
       <img src="images.keep/logo-brand-youngs.png"
            alt="永旭材料貿易有限公司"
-           style="height:48px;">
+           style="height:52px;">
     </a>
 
-    <div style="display:flex; gap:0.75rem; flex-wrap:wrap;">
+    <!-- 右側 導覽列 -->
+    <nav style="
+      display:flex;
+      gap:1.5rem;
+      font-size:0.95rem;
+      align-items:center;
+      white-space:nowrap;
+    ">
       <a href="brands">代理品牌</a>
       <a href="products">產品列表</a>
       <a href="faq">FAQ</a>
-      <a href="contact"><strong>聯絡我們</strong></a>
-    </div>
+      <a href="contact" style="font-weight:600;">聯絡我們</a>
+    </nav>
 
   </div>
 </div>
+
+
 
 # MS (Methyl Methacrylate Styrene) 
 # 甲基丙烯酸甲酯-苯乙烯 共聚合物
