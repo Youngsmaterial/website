@@ -29,6 +29,7 @@
       align-items:center;
       white-space:nowrap;
     ">
+      <a href="index">公司簡介</a>
       <a href="brands">代理品牌</a>
       <a href="products">產品列表</a>
       <a href="faq">FAQ</a>
