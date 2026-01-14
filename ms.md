@@ -75,10 +75,10 @@
 
 
 🔗 延伸材料參考：
-- [PMMA 壓克力](pmma.md)
-- [返回產品總覽](products.md)
+- [PMMA 壓克力](pmma
+- [返回產品總覽](products)
 
 ---
 
 📩 **需要完整規格、應用建議或報價？**  
-👉 [請聯絡我們](contact.md)
+👉 [請聯絡我們](contact)
