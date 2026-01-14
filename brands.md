@@ -43,10 +43,10 @@
 
 ## 代理品牌
 
-<div style="display:flex; flex-direction:column; gap:60px; align-items:center;">
+<div style="display:flex; flex-direction:column; gap:60px;">
 
   <!-- 廠商 1: Wanhua -->
-  <div style="text-align:center; max-width:800px;">
+  <div style="max-width:800px;">
     <img src="images/logo-brand-wanhua.png" 
          alt="Wanhua Chemical Group Co., Ltd." 
          style="max-height:40px; object-fit:contain;">
@@ -56,7 +56,7 @@
   </div>
 
   <!-- 廠商 2: Hinny -->
-  <div style="text-align:center; max-width:800px;">
+  <div style="max-width:800px;">
     <img src="images/logo-brand-hinny.png" 
          alt="Weifang Dongsheng Plastic Technology Co., Ltd." 
          style="max-height:80px; object-fit:contain;">
@@ -64,8 +64,5 @@
     <h3>Weifang Dongsheng Plastic Technology Co.,Ltd</h3>
     <p>濰坊东盛塑胶科技有限公司專注於塑膠材料研發與製造，主要從事高性能透明尼龍、生物基長碳鏈尼龍、特種尼龍、特種尼龍改性等一系列產品的研發、生產及銷售，產品廣泛應用於工業及民用領域。</p>
   </div>
-
-</div>
-
 
 </div>
