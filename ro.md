@@ -48,13 +48,22 @@
 
 ## 產品描述
 
-| 類別 | 規格 | 回收率(%) | 通水量GPD | 脫鹽率(%) | 備註 |
+| 類別 |   通水量GPD (LMH)| 脫鹽率(%) | 備註 |
 |----|--------|--------|--------|--|-|
-| HR | 1812 | 45 | 85 |98.5| |
-| HF-R | 1812| 45 | 90 |96.0| |
-| HF | 1812 | 45 | 105 |93| |
-| UHF | 3012-600 | 45 | 750 |95.5| |
-| UHF | 3012-800 | 45 | 900 |95.5| |
+| HR | 38GDF (65LMH) |99.5| 1500ppm、150psi |
+| HF-R | 44GDF (75LMH) |98.5 | 1500ppm、150psi |
+| HF | 26GDF (45LMH) |99| 500ppm、70psi |
+| UHF |  29GDF (50LMH) |98.5| 500ppm、70psi |
+
+
+
+| 類別 | 規格 |  通水量GPD | 脫鹽率(%) | (m²) |  |備註 |
+|----|--------|--------|--------|--|-|-|
+| BW | BW-8040-400-LP | 10500 | 99.65 | 400(37.2)| 28/31 | 2000mg/l、225psi、pH7、rY15%|
+| BW | BW-8040-440-LP | 11550 | 99.65 | 440(41.0)| 28 | 2000mg/l、225psi、pH7、rY15%|
+| BW | BW-8040-400-FR | 10500 | 99.65 | 400(37.2)| 34/34-LD | 2000mg/l、225psi、pH7、rY15%|
+| BW | BW-8040-400-ULP | 11000 | 99.50 | 400(41.0)| 34/34-LD | 1500mg/l、150psi、pH7、rY15%|
+| BW | BW-8040-440-ULP | 12100 | 99.50 | 440(37.2)| 28 | 1500mg/l、150psi、pH7、rY15%|
 
 
 
@@ -70,3 +79,25 @@
 
 📩 **需要完整規格、應用建議或報價？**  
 👉 [請聯絡我們](contact)
+
+
+<footer style="
+  margin-top:4rem;
+  padding:1.5rem 1rem;
+  border-top:1px solid #e5e5e5;
+  font-size:0.85rem;
+  color:#555;
+">
+  <div style="
+    max-width:1200px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:0.25rem;
+    text-align:center;
+  ">
+    <div>永旭材料貿易有限公司 ©</div>
+    <div>YOUNGS MATERIAL CO., LTD.</div>
+    <div>電話：06-2580502 ｜ 地址：臺南市北區大和路330巷21號1樓</div>
+  </div>
+</footer>
