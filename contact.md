@@ -99,7 +99,7 @@
 
     <label>
       聯絡電話
-      <input type="tel" placeholder="例如：06-2580502" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
+      <input type="tel" placeholder="" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
     </label>
 
     <label>
