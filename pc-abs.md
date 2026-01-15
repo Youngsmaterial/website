@@ -38,7 +38,7 @@
 </div>>
 
 
-# PC/ABS 
+# PC改性·PC/ABS 
 # 聚碳酸酯、丙烯腈-丁二烯-苯乙烯 共聚合物
 
 品牌: Wanhua Chemical 萬華化學 WanBlend®	
@@ -75,7 +75,7 @@
 | 光擴散PC |LD1627|  |  MFR=20 |
 | IRPC |LT1711|  3.0mm V2 | MFR=14 |
 | IRPC |LT1712|  3.0mm V0 | MFR=14 |
-| PC/聚酯 |  |  | PC/PBT、PC/PET、 15%MD+PC/PET、PC/ASA、阻燃PC/ASA |
+| PC改性 |  |  | PC/PBT、PC/PET、 15%MD+PC/PET、PC/ASA、阻燃PC/ASA |
 
 
 ## PC/ABS 產品描述
@@ -93,7 +93,7 @@
 | 阻燃級 |CA3450H| 23* | 108 | 1.5mm V0 | 高耐熱 |
 | 阻燃級 |TFR4350L| 18 | 30 | 0.8mm V0 | 超薄壁 |
 | 阻燃級 |CA3250CM| 11 | 80 | 1.0mm V0 |  |
-| PCR PC/ABS || |  |  | GRS |
+
 
 
 🔗 延伸材料參考：
@@ -104,3 +104,25 @@
 
 📩 **需要完整規格、應用建議或報價？**  
 👉 [請聯絡我們](contact)
+
+
+<footer style="
+  margin-top:4rem;
+  padding:1.5rem 1rem;
+  border-top:1px solid #e5e5e5;
+  font-size:0.85rem;
+  color:#555;
+">
+  <div style="
+    max-width:1200px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:0.25rem;
+    text-align:center;
+  ">
+    <div>永旭材料貿易有限公司 ©</div>
+    <div>YOUNGS MATERIAL CO., LTD.</div>
+    <div>電話：06-2580502 ｜ 地址：臺南市北區大和路330巷21號1樓</div>
+  </div>
+</footer>
