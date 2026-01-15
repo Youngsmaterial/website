@@ -63,7 +63,7 @@
 <!-- 右欄：聯絡表單 -->
 <div style="
   background:#f6f7f8;
-  padding:2rem;
+  padding:1.5rem;
   border:1px solid #dcdcdc;      
   border-radius:6px;
 ">
@@ -99,7 +99,7 @@
 
     <label>
       聯絡電話
-      <input type="tel" placeholder="" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
+      <input type="tel" placeholder="例如：06-2580502" style="height:1.6rem; font-size:0.9rem; padding:0.2rem;">
     </label>
 
     <label>
@@ -131,9 +131,6 @@
 
   </form>
 </div>
-
-
-
 
 
 
