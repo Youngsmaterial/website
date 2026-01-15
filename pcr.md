@@ -88,7 +88,7 @@
 
 
 
-<img src="images/pcr-images.jpg" alt="PCR Manufacturing Process" style="display:block; margin:4em auto; max-width:80%;">
+<img src="images/pcr-images.jpg" alt="PCR Manufacturing Process" style="display:block; margin:5em auto; max-width:75%;">
 
 
 
