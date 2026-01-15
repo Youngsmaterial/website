@@ -1,13 +1,7 @@
-<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-
-# 聯絡我們
-
-如需產品規格、技術資料或報價，歡迎與我們聯繫。
-
-<section style="max-width:1200px; margin:2rem auto; display:flex; gap:2rem; flex-wrap:wrap;">
+<section style="max-width:1000px; margin:2rem auto; display:flex; gap:2rem; flex-wrap:wrap;">
 
   <!-- 左側公司資訊 -->
-  <div style="flex:1; min-width:280px;">
+  <div style="flex:1; min-width:250px;">
     <h2>公司資訊</h2>
     <p><strong>公司名稱：</strong> 永旭材料貿易有限公司</p>
     <p><strong>地址：</strong> 臺南市北區大和路330巷21號1樓</p>
@@ -19,7 +13,7 @@
   </div>
 
   <!-- 右側聯絡表單 -->
-  <form action="https://formsubmit.co/ray@youngs.com.tw" method="POST" style="flex:1; min-width:300px; padding:1rem; border:1px solid #dcdcdc; border-radius:8px; background:#fafafa;">
+  <form action="https://formsubmit.co/ray@youngs.com.tw" method="POST" style="flex:1; min-width:280px; max-width:450px; padding:1rem; border:1px solid #dcdcdc; border-radius:8px; background:#fafafa;">
     <h2>聯絡表單</h2>
 
     <label for="company">公司名稱</label>
@@ -47,7 +41,6 @@
     <label for="message">留言內容</label>
     <textarea id="message" name="message" rows="5" placeholder="請輸入留言內容" required></textarea>
 
-    <!-- 可選：自動回覆與感謝頁 -->
     <input type="hidden" name="_autoresponse" value="感謝您的來信，我們會盡快回覆您。">
     <input type="hidden" name="_next" value="https://yourwebsite.com/thank-you">
 
@@ -55,7 +48,6 @@
   </form>
 
 </section>
-
 
 
 
