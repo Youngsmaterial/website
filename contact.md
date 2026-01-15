@@ -16,72 +16,80 @@
     </div>
 
 
-<!-- 右欄：聯絡表單（穩定專業版） -->
-<div style="
-  flex:1 1 480px;
-  background:#f6f7f8;
-  padding:2rem;
-  border:1px solid #dcdcdc;
-  border-radius:6px;
-">
+    <!-- 右欄：聯絡表單 -->
+    <div style="
+      background:#f6f7f8;
+      padding:2rem;
+      border:1px solid #dcdcdc;
+      border-radius:6px;
+    ">
 
-  <h2 style="margin-top:0;">聯絡表單</h2>
-  <p style="color:#555; margin-bottom:1.5rem;">
-    請填寫以下資料，我們將儘快與您聯繫。
-  </p>
+      <h2 style="margin-top:0;">聯絡表單</h2>
+      <p style="color:#555; margin-bottom:1.5rem;">
+        請填寫以下資料，我們將儘快與您聯繫。
+      </p>
 
-  <form style="display:grid; grid-template-columns:1fr; gap:1rem;">
+      <form style="display:grid; gap:1rem;">
 
-    <label>
-      公司名稱
-      <input type="text" placeholder="請輸入公司名稱" style="width:100%;">
-    </label>
+        <label>
+          公司名稱
+          <input type="text" placeholder="請輸入公司名稱">
+        </label>
 
-    <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem;">
-      <label>
-        聯絡人
-        <input type="text" placeholder="請輸入姓名" style="width:100%;">
-      </label>
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem;">
+          <label>
+            聯絡人
+            <input type="text" placeholder="請輸入姓名">
+          </label>
 
-      <label>
-        性別
-        <select style="width:100%;">
-          <option>請選擇</option>
-          <option>先生</option>
-          <option>女士</option>
-          <option>其他</option>
-        </select>
-      </label>
+          <label>
+            性別
+            <select>
+              <option>請選擇</option>
+              <option>先生</option>
+              <option>女士</option>
+              <option>其他</option>
+            </select>
+          </label>
+        </div>
+
+        <label>
+          聯絡電話
+          <input type="tel" placeholder="例如：06-2580502">
+        </label>
+
+        <label>
+          電子郵件
+          <input type="email" placeholder="example@email.com">
+        </label>
+
+        <label>
+          詢問內容
+          <textarea rows="5" placeholder="請輸入您的需求或產品規格"></textarea>
+        </label>
+
+        <button type="submit" style="
+          margin-top:1rem;
+          background:rgba(47,58,65,0.5);
+          border:none;
+          padding:0.75rem 1.5rem;
+          font-size:0.95rem;
+          width:160px;
+          color:#fff;
+          border-radius:4px;
+          cursor:pointer;
+        "
+        onmouseover="this.style.background='rgba(47,58,65,0.8)'"
+        onmouseout="this.style.background='rgba(47,58,65,0.5)'"
+        >
+          送出表單
+        </button>
+
+      </form>
     </div>
 
-    <label>
-      聯絡電話
-      <input type="tel" placeholder="例如：06-2580502" style="width:100%;">
-    </label>
-
-    <label>
-      電子郵件
-      <input type="email" placeholder="example@email.com" style="width:100%;">
-    </label>
-
-    <label>
-      詢問內容
-      <textarea rows="5" placeholder="請輸入您的需求或產品規格" style="width:100%;"></textarea>
-    </label>
-
-    <button type="submit" style="
-      margin-top:1rem;
-      background:#2f3a40;
-      border:none;
-      padding:0.75rem;
-      font-size:0.95rem;
-      width:160px;
-    ">
-      送出表單
-    </button>
-
-  </form>
-</div>
+  </div>
+</section>
 
 
 
