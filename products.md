@@ -49,6 +49,10 @@
 - [PPSU 聚苯碸](ppsu)
 - [MS 樹脂](ms)
 
+## PCR 環保回收再製材料（Post-Consumer Recycled）
+- [PCR 環保回收再製材料](pcr)
+
+
 ## 彈性體與特殊材料
 - [POE 聚烯烴彈性體](poe)
 - [XLPE 交聯聚乙烯](xlpe)
