@@ -38,7 +38,7 @@
 </div>>
 
 
-# PC改性·PC/ABS 
+# PC合金·PC/ABS 
 # 聚碳酸酯、丙烯腈-丁二烯-苯乙烯 共聚合物
 
 品牌: Wanhua Chemical 萬華化學 WanBlend®	
@@ -61,7 +61,7 @@
 - 汽車零部件
 
 
-## PC改性 產品描述
+## PC合金 產品描述
 
 
 | 類別 | 規格| 阻燃UL94 | 備註 |
@@ -75,7 +75,7 @@
 | 光擴散PC |LD1627|  |  MFR=20 |
 | IRPC |LT1711|  3.0mm V2 | MFR=14 |
 | IRPC |LT1712|  3.0mm V0 | MFR=14 |
-| PC改性 |  |  | PC/PBT、PC/PET、 15%MD+PC/PET、PC/ASA、阻燃PC/ASA |
+| PC合金 |  |  | PC/PBT、PC/PET、 15%MD+PC/PET、PC/ASA、阻燃PC/ASA |
 
 
 ## PC/ABS 產品描述
