@@ -1,7 +1,7 @@
-<section style="max-width:900px; margin:2rem auto; display:flex; gap:2rem; flex-wrap:wrap;">
+<section style="max-width:900px; margin:4rem auto; display:flex; flex-wrap:wrap; gap:2rem;">
 
   <!-- 左側公司資訊 -->
-  <div style="flex:1; min-width:220px;">
+  <div style="flex:1; min-width:260px; padding:1rem; box-sizing:border-box;">
     <h3>公司資訊</h3>
     <p><strong>公司名稱：</strong> 永旭材料貿易有限公司</p>
     <p><strong>地址：</strong> 臺南市北區大和路330巷21號1樓</p>
@@ -13,7 +13,7 @@
   </div>
 
   <!-- 右側聯絡表單 -->
-  <form action="https://formsubmit.co/amanda@youngs.com.tw" method="POST" style="flex:1; min-width:260px; max-width:400px; padding:1rem; border:1px solid #dcdcdc; border-radius:6px; background:#fafafa;">
+  <form action="https://formsubmit.co/amanda%40youngs.com.tw" method="POST" style="flex:1; min-width:260px; max-width:400px; padding:1rem; border:1px solid #dcdcdc; border-radius:6px; background:#fafafa; box-sizing:border-box;">
     <h3>聯絡表單</h3>
 
     <label for="company">公司名稱</label>
@@ -41,15 +41,14 @@
     <label for="message">留言內容</label>
     <textarea id="message" name="message" rows="4" placeholder="請輸入留言內容" required></textarea>
 
-    <!-- 自動回覆 -->
     <input type="hidden" name="_autoresponse" value="感謝您的來信，我們會盡快回覆您。">
-    <!-- 送出後跳轉感謝頁 -->
     <input type="hidden" name="_next" value="https://yourwebsite.com/thank-you">
 
     <button type="submit">送出</button>
   </form>
 
 </section>
+
 
 
 
