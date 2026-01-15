@@ -44,7 +44,7 @@
 ## 工程塑料（Engineering Plastics）
 - [PC 聚碳酸酯](pc)
 - [PMMA 壓克力](pmma)
-- [PC合金·PC/ABS 合金](pc-abs)
+- [PC合金、PC/ABS 合金](pc-abs)
 - [PA12 尼龍](pa12)
 - [PPSU 聚苯碸](ppsu)
 - [MS 樹脂](ms)
