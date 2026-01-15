@@ -72,9 +72,12 @@
 
 | 類別 | 規格 | 備註 |
 |------|--------|--------|
-| PCR PC/ABS | CA3150 CM | GRS、75% PCR、15% Talc |
-| PCR PC/ABS | CA3250 | GRS、65% PCR |
-| PCR PC/ABS | CA3350 | GRS、75% PCR |
+| PCR PC/ABS | CA1560 R50 | GRS、50% PCR |
+| PCR PC/ABS | CA1580 R75 | GRS、75% PCR |
+| PCR PC/ABS | CA3150 CM R75 | GRS、75% PCR、15% Talc |
+| PCR PC/ABS | CA3250 R65 | GRS、65% PCR |
+| PCR PC/ABS | CA3350 R75 | GRS、75% PCR、1.5mm V0 |
+| PCR PC/ABS | FR3730M R50 | GRS、50% PCR、1.5mm V0 阻燃 |
 
 
 
