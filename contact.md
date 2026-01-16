@@ -94,6 +94,18 @@
     <input type="text" name="contact_name">
   </label>
 
+
+<label>
+  性別
+  <select name="gender">
+    <option value="">請選擇</option>
+    <option value="先生">先生</option>
+    <option value="小姐">小姐</option>
+    <option value="其他">其他</option>
+  </select>
+</label>
+
+
   <label>
     聯絡電話
     <input type="tel" name="phone">
