@@ -4,19 +4,22 @@
   <div style="
     max-width:1280px;
     margin:0 auto;
-    padding:1.25rem 1.5rem;
+    padding:1.25rem 1.5rem; /* 保留原本 padding，上下與導覽列平行 */
     display:flex;
-    align-items:center;
+    align-items:center; /* logo 與導覽列垂直置中 */
     justify-content:space-between;
     gap:2rem;
     flex-wrap:wrap;
   ">
+
+    <!-- 左側 LOGO -->
     <a href="index" style="display:flex; align-items:center;">
       <img src="images/logo-brand-youngs.png"
            alt="永旭材料貿易有限公司"
-           style="height:80px; max-width:none; object-fit:contain;">
+           style="height:80px; max-width:none; object-fit:contain;"> 
     </a>
 
+    <!-- 右側 導覽列 -->
     <nav style="
       display:flex;
       gap:1.5rem;
@@ -30,8 +33,46 @@
       <a href="faq">FAQ</a>
       <a href="contact" style="font-weight:600;">聯絡我們</a>
     </nav>
+
   </div>
 </div>
+
+
+
+
+
+<section style="max-width:1200px; margin:3rem auto; padding:0 1rem;">
+  <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem;">
+
+    <!-- 左欄：聯絡資訊 -->
+    <div>
+      <h2>聯絡資訊</h2>
+
+      <p>如需產品規格、技術資料或報價，歡迎與我們聯繫。</p>
+
+      <p><strong>公司名稱：</strong> 永旭材料貿易有限公司</p>
+      <p><strong>地址：</strong> 臺南市北區大和路330巷21號1樓</p>
+      <p><strong>Email：</strong> ray@youngs.com.tw</p>
+      <p><strong>TEL：</strong> 06-2580502</p>
+      <p><strong>FAX：</strong> 06-2116934</p>
+      <p><strong>服務時間：</strong> 週一至週五 08:30–17:30</p>
+    </div>
+
+
+
+<!-- 右欄：聯絡表單 -->
+<div style="
+  background:#f6f7f8;
+  padding:1.5rem;
+  border:1px solid #dcdcdc;      
+  border-radius:6px;
+">
+
+  <h2 style="margin-top:0;">聯絡表單</h2>
+  <p style="color:#555; margin-bottom:1.5rem;">
+    請填寫以下資料，我們將儘快與您聯繫。
+  </p>
+
 
 <form
   action="https://formsubmit.co/ray@youngs.com.tw"
@@ -83,10 +124,35 @@
 
 
 
-<footer style="margin-top:4rem; padding:1.5rem 1rem; border-top:1px solid #e5e5e5; font-size:0.85rem; color:#555;">
-  <div style="max-width:1200px; margin:0 auto; text-align:center;">
+
+
+</div>
+
+
+  </div>
+</section>
+
+
+
+<footer style="
+  margin-top:4rem;
+  padding:1.5rem 1rem;
+  border-top:1px solid #e5e5e5;
+  font-size:0.85rem;
+  color:#555;
+">
+  <div style="
+    max-width:1200px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    gap:0.25rem;
+    text-align:center;
+  ">
     <div>永旭材料貿易有限公司 ©</div>
     <div>YOUNGS MATERIAL CO., LTD.</div>
     <div>電話：06-2580502 ｜ 地址：臺南市北區大和路330巷21號1樓</div>
   </div>
 </footer>
+
+
