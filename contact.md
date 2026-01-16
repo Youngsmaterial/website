@@ -63,21 +63,37 @@
 <!-- 右欄：聯絡表單 -->
 <div style="
   background:#f6f7f8;
-  padding:1.5rem;
+  padding:1.2rem;
   border:1px solid #dcdcdc;      
   border-radius:6px;
 ">
 
   <h2 style="margin-top:0;">聯絡表單</h2>
-  <p style="color:#555; margin-bottom:1.5rem;">
+  <p style="color:#555; margin-bottom:1rem;">
     請填寫以下資料，我們將儘快與您聯繫。
   </p>
+
+
+
+
+<style>
+  form input,
+  form select
+  form textarea {
+    padding: 0.35rem 0.5rem;
+    font-size: 0.85rm
+  }
+</style>
+
+
+
+
 
 
 <form
   action="https://formsubmit.co/ray@youngs.com.tw"
   method="POST"
-  style="display:grid; gap:0.6rem; font-size:0.9rem;"
+  style="display:grid; gap:0.3rem; font-size:0.85rem;"
 >
   <!-- FormSubmit 設定（看不到，不影響畫面） -->
   <input type="hidden" name="_subject" value="官網聯絡表單詢問">
@@ -122,10 +138,10 @@
   </label>
 
   <button type="submit" style="
-    margin-top:0.8rem;
+    margin-top:0.6rem;
     background:rgba(47,58,65,0.5);
     border:none;
-    padding:0.6rem 1.2rem;
+    padding:0.5rem 1.1rem;
     width:140px;
     color:#fff;
     border-radius:4px;
