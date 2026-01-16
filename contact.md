@@ -59,102 +59,113 @@
     </div>
 
 
-
 <!-- 右欄：聯絡表單 -->
 <div style="
   background:#f6f7f8;
-  padding:1.2rem;
-  border:1px solid #dcdcdc;      
+  padding:0.9rem;
+  border:1px solid #dcdcdc;
   border-radius:6px;
 ">
 
-  <h2 style="margin-top:0;">聯絡表單</h2>
-  <p style="color:#555; margin-bottom:1rem;">
+  <h2 style="margin:0 0 0.4rem 0; font-size:1rem;">聯絡表單</h2>
+  <p style="color:#555; margin:0 0 0.4rem 0; font-size:0.8rem;">
     請填寫以下資料，我們將儘快與您聯繫。
   </p>
 
-
-
-
-<style>
-  form input,
-  form select
-  form textarea {
-    padding: 0.35rem 0.5rem;
-    font-size: 0.85rm
-  }
-</style>
-
-
-
-
-
-
-<form
-  action="https://formsubmit.co/ray@youngs.com.tw"
-  method="POST"
-  style="display:grid; gap:0.3rem; font-size:0.85rem;"
->
-  <!-- FormSubmit 設定（看不到，不影響畫面） -->
-  <input type="hidden" name="_subject" value="官網聯絡表單詢問">
-  <input type="hidden" name="_captcha" value="false">
-  <input type="hidden" name="_template" value="table">
-
-  <label>
-    公司名稱
-    <input type="text" name="company">
-  </label>
-
-  <label>
-    聯絡人
-    <input type="text" name="contact_name">
-  </label>
-
-
-<label>
-  性別
-  <select name="gender">
-    <option value="">請選擇</option>
-    <option value="先生">先生</option>
-    <option value="小姐">小姐</option>
-    <option value="其他">其他</option>
-  </select>
-</label>
-
-
-  <label>
-    聯絡電話
-    <input type="tel" name="phone">
-  </label>
-
-  <label>
-    電子郵件
-    <input type="email" name="email" required>
-  </label>
-
-  <label>
-    詢問內容
-    <textarea name="message" rows="3"></textarea>
-  </label>
-
-  <button type="submit" style="
-    margin-top:0.6rem;
-    background:rgba(47,58,65,0.5);
-    border:none;
-    padding:0.5rem 1.1rem;
-    width:140px;
-    color:#fff;
+  <!-- 成功訊息（送出後顯示） -->
+  <div id="success" style="
+    display:none;
+    padding:0.6rem;
+    background:#eaf6ec;
+    border:1px solid #b6dfc1;
     border-radius:4px;
+    font-size:0.8rem;
+    color:#256029;
+    margin-bottom:0.4rem;
   ">
-    送出表單
-  </button>
-</form>
+    ✔ 表單已成功送出，我們會盡快與您聯繫。
+  </div>
 
+  <!-- 壓縮高度設定（僅此頁） -->
+  <style>
+    form {
+      display: grid;
+      gap: 0.2rem;
+      font-size: 0.8rem;
+    }
+    form label {
+      font-size: 0.75rem;
+    }
+    form input,
+    form select,
+    form textarea {
+      padding: 0.28rem 0.45rem;
+      font-size: 0.8rem;
+    }
+  </style>
 
+  <form
+    action="https://formsubmit.co/ray@youngs.com.tw"
+    method="POST"
+  >
+    <!-- FormSubmit 設定 -->
+    <input type="hidden" name="_subject" value="官網聯絡表單詢問">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_next" value="contact#success">
 
+    <label>
+      公司名稱
+      <input type="text" name="company">
+    </label>
 
+    <label>
+      聯絡人
+      <input type="text" name="contact_name">
+    </label>
+
+    <label>
+      性別
+      <select name="gender">
+        <option value="">請選擇</option>
+        <option value="先生">先生</option>
+        <option value="小姐">小姐</option>
+        <option value="其他">其他</option>
+      </select>
+    </label>
+
+    <label>
+      聯絡電話
+      <input type="tel" name="phone">
+    </label>
+
+    <label>
+      電子郵件
+      <input type="email" name="email" required>
+    </label>
+
+    <label>
+      詢問內容
+      <textarea name="message" rows="2"></textarea>
+    </label>
+
+    <button type="submit" style="
+      margin-top:0.3rem;
+      background:rgba(47,58,65,0.55);
+      border:none;
+      padding:0.4rem 0.9rem;
+      width:120px;
+      color:#fff;
+      border-radius:4px;
+      font-size:0.8rem;
+    ">
+      送出表單
+    </button>
+  </form>
 
 </div>
+
+
 
 
   </div>
