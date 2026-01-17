@@ -74,7 +74,7 @@
     請填寫以下資料，我們將儘快與您聯繫。
   </p>
 
-  <!-- 成功訊息 -->
+  <!-- 成功訊息（送出後會顯示） -->
   <div id="success" style="
     display:none;
     padding:0.8rem;
@@ -91,7 +91,7 @@
   <form
     action="https://formsubmit.co/ray@youngs.com.tw"
     method="POST"
-    onsubmit="showSuccess();"
+    style="display:grid; gap:0.6rem; font-size:0.9rem;"
   >
     <!-- FormSubmit 設定 -->
     <input type="hidden" name="_subject" value="官網聯絡表單詢問">
@@ -101,17 +101,17 @@
 
     <label>
       公司名稱
-      <input type="text" name="company" required>
+      <input type="text" name="company">
     </label>
 
     <label>
       聯絡人
-      <input type="text" name="contact_name" required>
+      <input type="text" name="contact_name">
     </label>
 
     <label>
       性別
-      <select name="gender" required>
+      <select name="gender">
         <option value="">請選擇</option>
         <option value="先生">先生</option>
         <option value="小姐">小姐</option>
@@ -121,7 +121,7 @@
 
     <label>
       聯絡電話
-      <input type="tel" name="phone" required>
+      <input type="tel" name="phone">
     </label>
 
     <label>
@@ -131,7 +131,7 @@
 
     <label>
       詢問內容
-      <textarea name="message" rows="3" required></textarea>
+      <textarea name="message" rows="3"></textarea>
     </label>
 
     <button type="submit" style="
@@ -148,12 +148,6 @@
   </form>
 
 </div>
-
-<script>
-function showSuccess() {
-  document.getElementById('success').style.display = 'block';
-}
-</script>
 
 
 
