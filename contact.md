@@ -74,7 +74,6 @@
     請填寫以下資料，我們將儘快與您聯繫。
   </p>
 
-  <!-- 成功訊息 -->
   <div id="success" style="
     display:none;
     padding:0.8rem;
@@ -92,25 +91,25 @@
     action="https://formsubmit.co/ray@youngs.com.tw"
     method="POST"
     onsubmit="showSuccess();"
+    style="display:grid; gap:0.6rem; font-size:0.9rem;"
   >
-    <!-- FormSubmit 設定 -->
     <input type="hidden" name="_subject" value="官網聯絡表單詢問">
     <input type="hidden" name="_captcha" value="false">
     <input type="hidden" name="_template" value="table">
     <input type="hidden" name="_next" value="contact#success">
 
     <label>
-      公司名稱
+      公司名稱 <span style="color:#c00;">*</span>
       <input type="text" name="company" required>
     </label>
 
     <label>
-      聯絡人
+      聯絡人 <span style="color:#c00;">*</span>
       <input type="text" name="contact_name" required>
     </label>
 
     <label>
-      性別
+      性別 <span style="color:#c00;">*</span>
       <select name="gender" required>
         <option value="">請選擇</option>
         <option value="先生">先生</option>
@@ -120,17 +119,17 @@
     </label>
 
     <label>
-      聯絡電話
+      聯絡電話 <span style="color:#c00;">*</span>
       <input type="tel" name="phone" required>
     </label>
 
     <label>
-      電子郵件
+      電子郵件 <span style="color:#c00;">*</span>
       <input type="email" name="email" required>
     </label>
 
     <label>
-      詢問內容
+      詢問內容 <span style="color:#c00;">*</span>
       <textarea name="message" rows="3" required></textarea>
     </label>
 
@@ -154,7 +153,6 @@ function showSuccess() {
   document.getElementById('success').style.display = 'block';
 }
 </script>
-
 
 
 
