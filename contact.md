@@ -16,7 +16,7 @@
     <a href="index" style="display:flex; align-items:center;">
       <img src="images/logo-brand-youngs.png"
            alt="永旭材料貿易有限公司"
-           style="height:80px; max-width:100%; object-fit:contain;"> 
+           style="height:80px; max-width:none; object-fit:contain;"> 
     </a>
 
     <!-- 右側 導覽列 -->
@@ -42,7 +42,7 @@
 
 
 <section style="max-width:1200px; margin:3rem auto; padding:0 1rem;">
- <div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem; box-sizing:border-box;">
+<div style="display:grid; grid-template-columns:1fr 1fr; gap:3rem;">
 
     <!-- 左欄：聯絡資訊 -->
     <div>
@@ -153,7 +153,6 @@ function showSuccess() {
   document.getElementById('success').style.display = 'block';
 }
 </script>
-
 
 
 
