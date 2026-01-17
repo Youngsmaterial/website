@@ -1,4 +1,3 @@
-
 <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
 
 <div style="background:#ffffff; border-bottom:1px solid #dcdcdc;">
@@ -61,12 +60,11 @@
 
 
 
-
 <!-- 右欄：聯絡表單 -->
 <div style="
   background:#f6f7f8;
   padding:1.5rem;
-  border:1px solid #dcdcdc;
+  border:1px solid #dcdcdc;      
   border-radius:6px;
 ">
 
@@ -75,80 +73,77 @@
     請填寫以下資料，我們將儘快與您聯繫。
   </p>
 
-  <!-- 成功訊息（送出後會顯示） -->
-  <div id="success" style="
-    display:none;
-    padding:0.8rem;
-    margin-bottom:1rem;
-    background:#eaf6ec;
-    border:1px solid #b6dfc1;
+
+<form
+  action="https://formsubmit.co/ray@youngs.com.tw"
+  method="POST"
+  style="display:grid; gap:0.6rem; font-size:0.9rem;"
+>
+  <!-- FormSubmit 設定（看不到，不影響畫面） -->
+  <input type="hidden" name="_subject" value="官網聯絡表單詢問">
+  <input type="hidden" name="_captcha" value="false">
+  <input type="hidden" name="_template" value="table">
+
+  <label>
+    公司名稱
+    <input type="text" name="company">
+  </label>
+
+  <label>
+    聯絡人
+    <input type="text" name="contact_name">
+  </label>
+
+
+<label>
+  性別
+  <select name="gender">
+    <option value="">請選擇</option>
+    <option value="先生">先生</option>
+    <option value="小姐">小姐</option>
+    <option value="其他">其他</option>
+  </select>
+</label>
+
+
+  <label>
+    聯絡電話
+    <input type="tel" name="phone">
+  </label>
+
+  <label>
+    電子郵件
+    <input type="email" name="email" required>
+  </label>
+
+  <label>
+    詢問內容
+    <textarea name="message" rows="3"></textarea>
+  </label>
+
+  <button type="submit" style="
+    margin-top:0.8rem;
+    background:rgba(47,58,65,0.5);
+    border:none;
+    padding:0.6rem 1.2rem;
+    width:140px;
+    color:#fff;
     border-radius:4px;
-    font-size:0.9rem;
-    color:#256029;
   ">
-    ✔ 表單已成功送出，我們會盡快與您聯繫。
-  </div>
+    送出表單
+  </button>
+</form>
 
-  <form
-    action="https://formsubmit.co/ray@youngs.com.tw"
-    method="POST"
-    style="display:grid; gap:0.6rem; font-size:0.9rem;"
-  >
-    <!-- FormSubmit 設定 -->
-    <input type="hidden" name="_subject" value="官網聯絡表單詢問">
-    <input type="hidden" name="_captcha" value="false">
-    <input type="hidden" name="_template" value="table">
-    <input type="hidden" name="_next" value="contact#success">
 
-    <label>
-      公司名稱
-      <input type="text" name="company">
-    </label>
 
-    <label>
-      聯絡人
-      <input type="text" name="contact_name">
-    </label>
 
-    <label>
-      性別
-      <select name="gender">
-        <option value="">請選擇</option>
-        <option value="先生">先生</option>
-        <option value="小姐">小姐</option>
-        <option value="其他">其他</option>
-      </select>
-    </label>
-
-    <label>
-      聯絡電話
-      <input type="tel" name="phone">
-    </label>
-
-    <label>
-      電子郵件
-      <input type="email" name="email" required>
-    </label>
-
-    <label>
-      詢問內容
-      <textarea name="message" rows="3"></textarea>
-    </label>
-
-    <button type="submit" style="
-      margin-top:0.8rem;
-      background:rgba(47,58,65,0.5);
-      border:none;
-      padding:0.6rem 1.2rem;
-      width:140px;
-      color:#fff;
-      border-radius:4px;
-    ">
-      送出表單
-    </button>
-  </form>
 
 </div>
+
+
+  </div>
+</section>
+
 
 
 <footer style="
